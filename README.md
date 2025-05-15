@@ -23,3 +23,5 @@ http://127.0.0.1:8000/docs
 ## API Endpoints
 - POST /add_policyholder
 - POST /add_claim
+- 
+## I have also uploaded the full zip of assignment 1 you can download it directly
